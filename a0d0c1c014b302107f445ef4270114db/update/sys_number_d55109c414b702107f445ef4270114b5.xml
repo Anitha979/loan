@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_cdltd_loan_reque_loan">x_cdltd_loan_reque_loan</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LOA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-29 19:08:35</sys_created_on>
+        <sys_id>d55109c414b702107f445ef4270114b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOA</sys_name>
+        <sys_package display_value="Loan request" source="x_cdltd_loan_reque">a0d0c1c014b302107f445ef4270114db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan request">a0d0c1c014b302107f445ef4270114db</sys_scope>
+        <sys_update_name>sys_number_d55109c414b702107f445ef4270114b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-29 19:08:35</sys_updated_on>
+    </sys_number>
+</record_update>
